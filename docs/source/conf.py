@@ -70,7 +70,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'DSToolsAnalysis'
+project = u'DSTools'
 copyright = u'2019, Harrison Feng'
 author = u'feng.harrison@gmail.com'
 
