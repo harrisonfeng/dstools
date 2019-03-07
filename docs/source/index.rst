@@ -2,7 +2,7 @@ DSTools
 =======
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: Overview
 
    intro.rst
@@ -12,8 +12,8 @@ DSTools
    :caption: Data Analytics
 
    scipy.rst
-   numpy.rst
-   pandas.rst
+   numpy_index.rst
+   pandas_index.rst
 
 .. toctree::
    :maxdepth: 1
